@@ -1,2 +1,6 @@
 week08/Library/
 week08/Temp/
+week09/Library/
+*.csproj
+*.userprefs
+*.sln
