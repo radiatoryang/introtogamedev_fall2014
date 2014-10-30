@@ -4,3 +4,5 @@ week09/Library/
 *.csproj
 *.userprefs
 *.sln
+week09/Temp/
+week09/Builds/
